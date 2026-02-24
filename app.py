@@ -118,6 +118,11 @@ def get_product():
     # returning a response to the user
     return jsonify (product_detail)
 
+
+
+
+    
+
 # Mpesa Payment Route/Endpoint 
 import requests
 import datetime
